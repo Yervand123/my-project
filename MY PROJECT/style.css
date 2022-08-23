@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+    
+}
+.Header{
+    width: 100%;
+    height: 150px;
+    background: rgb(52, 100, 155);
+    flex-wrap: wrap;
+   
+}
+.p1{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    transition: color;
+    width: 1px;
+    color: rgb(204, 138, 38);
+}
+.p1:hover{
+    color:rgb(243, 243, 243);
+}
+#Div-FB-iNST-TW{
+    position: relative;
+    top: 50px;
+    
+}
+
+i{
+color: azure;
+transition: color;
+}
+i:hover{
+    color: rgb(168, 135, 28) ;
+}
+a{
+   text-decoration: none;
+}
+
+.h1remont{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 10px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.login{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.LoginA{
+    color: white;
+}
+    
+#LOGINand{
+    color: rgb(2, 2, 2);
+}
+.Log{
+    transition: color;
+}
+.Log:hover{
+    color: blue;
+}
+.ThirdSpan{
+     transition: color;
+}
+
+.ThirdSpan:hover{
+    color: orange;
+}
+
+.pINFO{
+    color: rgb(198, 206, 191);
+    font-size: 20px;
+}
+
+#Firmaner{
+    width: 100%;
+    height: 80px;
+    border: 1px solid;
+}
+
+.centerDiv-hasaneli{
+    display: flex;
+    justify-content: center;
+}
+#hasaneli{
+    position: relative;
+    top: 25px;
+}
+
+
+.imgclass{
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+#mutq{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 80px;
+    right: 40px;
+}
+
+
+
+.toster{
+    /* margin-left: 150px; */
+}
+
+.IMGS{
+    width: 200px;
+    height: 200px;
+    margin-left: 45px;
+    margin-top: 60px;
+}
+.IMGS:HOVER{
+    scale: 0.9;
+}
+.Buttondiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+#BUTTON{
+    width: 250px;
+    height: 50px;
+    position: relative;
+    bottom: 250px;
+    font-size: 20px;
+    border-radius:10px;
+    border: none;
+    border: 1px;
+    color: rgb(58, 52, 52);
+    transition: background,color;
+}
+#BUTTON:hover{
+    background: rgb(133, 58, 58); 
+    color: white;  
+}
+
+#gcik{
+    width: 100%;
+    height: 200px;
+    border: none;
+    border-top:3px solid ;
+    margin-top: 150px;
+}
+
+.Footer{
+    width: 100%;
+    height: 160px;
+    background: rgb(58, 56, 30);
+    flex-wrap: wrap;
+}
+
+
+.input-button{
+    width: 300px;
+    height: 40px;
+}
+
+#input-button-DIV{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    position: relative;
+    bottom: 150px;
+}
+
+#button-input-Div{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 150px;
+}
+
+.help{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 230px;
+    right: 50px;
+}
